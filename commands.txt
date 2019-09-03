@@ -1,0 +1,8 @@
+python classify.py --model pokedex.model --labelbin lb.pickle --image examples/charmander_counter.png
+python classify.py --model pokedex.model --labelbin lb.pickle --image examples/bulbasaur_plush.png
+python classify.py --model pokedex.model --labelbin lb.pickle --image examples/mewtwo_toy.png
+python classify.py --model pokedex.model --labelbin lb.pickle --image examples/pikachu_toy.png
+python classify.py --model pokedex.model --labelbin lb.pickle --image examples/squirtle_plush.png
+
+https://www.pyimagesearch.com/2018/04/16/keras-and-convolutional-neural-networks-cnns/
+https://blog.keras.io/building-a-simple-keras-deep-learning-rest-api.html
